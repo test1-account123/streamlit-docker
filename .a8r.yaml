@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /k8/manifests
+  cluster_info:
+    cluster_id: 1e6f53f2-631d-5c3a-b7a2-e762dd800f4f
+    cluster_name: detest-cluster
